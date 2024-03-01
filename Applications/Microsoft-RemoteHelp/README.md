@@ -36,7 +36,7 @@ To install Microsoft Remote Help via intune, follow these steps:
 - **Path:** C:\Program Files\Remote Help
 - **File or Folder:** RemoteHelp.exe
 - **Detection Method:** File or folder exists
-- **Associate with a 32-bit app on 64-bit clients:** No
+- **Associate with a 32-bit app on 64-bit clients:** Yes
 ![image](https://github.com/mddeboda/Intune-stuff/assets/76268826/8291aced-dab4-4fc8-993d-bf1cf805388d)
 
 If you have any issues or have questions, reach out and I'll try to help out.
