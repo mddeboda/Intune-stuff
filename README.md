@@ -15,6 +15,6 @@ Welcome to the Intune-stuff repository! This repository contains various scripts
 - Remediations repository for common tasks
 - AutoPilot setup information and instructions, including considerations such as Dell vendor AutoPilot tenant info/domain name
 
-We aim to provide comprehensive resources and tools to simplify Intune management and enhance your remote management capabilities.
+I aim to provide resources and tools to simplify Intune management and enhance your remote management capabilities.
 
 Feel free to explore the repository and contribute to make Intune management even more efficient!
